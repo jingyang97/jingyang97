@@ -37,7 +37,7 @@ class JingYang extends Human {
 
 ### Skills
 
-![skills-azure](base64str)
+![skills-azure](azure.png)
 
 <!--
 <div class="row">
