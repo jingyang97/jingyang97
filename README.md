@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=plastic&label=Visitors+Count)
-
+<!--
 ### About Me
 
 ```Java
@@ -33,10 +33,12 @@ class JingYang extends Human {
     }
 }
 ```
+-->
 
 ### Skills
 
 ![skills-azure](base64str)
+
 <!--
 <div class="row">
        <div class="col-2 col-12-xsmall">
