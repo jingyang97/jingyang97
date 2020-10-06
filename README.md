@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=plastic&label=Visitors+Count)
-
+<!--
 ### About Me
 ```Java
 public class AboutMe{
@@ -31,7 +31,7 @@ class JingYang extends Human {
     }
 }
 ```
-
+-->
 
 
 <!--
