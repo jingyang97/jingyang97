@@ -1,9 +1,10 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=plastic&label=Visitors+Count)
 
 <!--
 **jingyang97/jingyang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
